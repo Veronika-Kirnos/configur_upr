@@ -1,0 +1,12 @@
+/build/
+/output/
+*.zip
+*.7z
+*.o
+*.obj
+*.exe
+pycache/
+*.py[cod]
+.vscode/
+.idea/
+.vs/
