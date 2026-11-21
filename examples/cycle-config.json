@@ -1,0 +1,7 @@
+{
+  "package": "A",
+  "repository": "cycle.json",
+  "test_mode": true,
+  "max_depth": 4,
+  "filter": ""
+}

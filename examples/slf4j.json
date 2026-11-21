@@ -1,0 +1,7 @@
+{
+  "package": "org.slf4j:slf4j-simple:1.7.36",
+  "repository": "https://repo.maven.apache.org/maven2",
+  "test_mode": false,
+  "max_depth": 4,
+  "filter": ""
+}
